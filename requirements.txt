@@ -1,0 +1,6 @@
+streamlit
+pandas
+reportlab
+arabic-reshaper
+python-bidi
+jdatetime
